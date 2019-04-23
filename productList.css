@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+#product-list {
+	display: inline-block;
+	float: left;
+	width: 33.3%;
+	height: 300px;
+	text-align: center;
+}
+
+#product-list tr td {
+	display: block;
+	float: left;
+	width: 85%;
+	height: 100%;
+}
+
+.productList-image {
+	width: 200px;
+	height: 200px;
+}
